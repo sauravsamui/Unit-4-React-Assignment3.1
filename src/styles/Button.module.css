@@ -1,0 +1,13 @@
+.rating_div{
+   width:28%;
+   margin: auto;
+   
+  display: flex;
+  justify-content: space-around;
+}
+.rating1_div{
+   width:33%;
+   margin: auto;
+  display: flex;
+  justify-content: space-around;
+}

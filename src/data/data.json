@@ -1,0 +1,380 @@
+[
+    {  "id":1,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg",
+      "name": "Chaitanya Parathas",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": 4.3,
+      "reviews":4356,
+      "deliveryTimings": "33",
+      "costForTwo":200,
+      "offer": ["20% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+    }
+    },
+    {  "id":2,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant2.jpeg",
+      "name": "MH 12 Pav Bhaji",
+      "category": [
+        "Snacks", "Pizza","Beverages", "Steet Food"
+      ],
+      "rating": 3.9,
+      "reviews":6576,
+      "deliveryTimings": "35",
+      "costForTwo":300,
+      "offer": ["10% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+    }
+    },
+    {  "id":3,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant3.jpeg",
+      "name": "Lunch Box",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages",
+        "Combo", "Biryani", "Healthy Food"
+      ],
+      "rating": 4.5,
+      "reviews":5356,
+      "deliveryTimings": "31",
+      "costForTwo":400,
+      "offer": ["15% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+    }
+    },
+    {  "id":4,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant4.jpeg",
+      "name": "The Hungry Hippe",
+      "category": [
+        "Italian",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": 4.5,
+      "reviews":4376,
+      "deliveryTimings": "28",
+      "costForTwo":100,
+      "offer": ["40% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+    }
+    },
+    {  "id":5,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant5.jpeg",
+      "name": "Ovenstory Pizzas",
+      "category": [
+        "Pizzas"
+      ],
+      "rating": 3.2,
+      "reviews":4396,
+      "deliveryTimings": "25",
+      "costForTwo":150,
+      "offer": ["20% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+    }
+    },
+    {  "id":6,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/rdxgtb2a7aknweggqmxb",
+      "name": "The Pind Punjabi",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Tandoor",
+        "Thalis Combo"
+      ],
+      "rating": 4.4,
+      "reviews":3396,
+      "deliveryTimings": "60",
+      "costForTwo": 500,
+      "offer": ["40% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": true
+    }
+    },
+    {  "id":7,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/waukwkbr5v5ccb2otpad",
+      "name": "Indus Pizza",
+      "category": [
+        "Pizza",
+        "Fast Food"
+      ],
+      "rating": 3.8,
+      "reviews":4196,
+      "deliveryTimings": "30",
+      "costForTwo":400,
+      "offer": ["20% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": true
+    }
+    },
+    {  "id":8,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ya8uhy5vsnr0pdg5gnkq",
+      "name": "Kwality Walls",
+      "category": [
+        "Ice Cream"
+       
+      ],
+      "rating": 4.4,
+      "reviews":2396,
+      "deliveryTimings": "40",
+      "costForTwo": 300,
+      "offer": ["20% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": false
+    }
+    },
+    {  "id":9,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/waukwkbr5v5ccb2otpad",
+      "name": "The Biryani Inc.",
+      "category": [
+        "Biryani",
+        "Mughal",
+        "Kebab",
+        "North Indians"
+       
+      ],
+      "rating": 4.2,
+      "reviews":6396,
+      "deliveryTimings": "57",
+      "costForTwo":350,
+      "offer": ["50% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": false
+    }
+    },
+    {  "id":10,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/fykoxtg3gadbaz831ir4",
+      "name": "Chahuan Dhaba",
+      "category": [
+        "North India",
+        "Chinese"
+      ],
+      "rating": 2.5,
+      "reviews":2396,
+      "deliveryTimings": "51",
+      "costForTwo":350,
+      "offer": ["25% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": false
+    }
+    },
+    {  "id":11,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/rzmajgg8wnycwkuwlie8",
+      "name": "Tea Junction",
+      "category": [
+        "Deserts",
+        "Tea",
+        "Beverages"
+      ],
+      "rating": 4.4,
+      "reviews":2396,
+      "deliveryTimings": "51",
+      "costForTwo":150,
+      "offer": ["20% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": false
+    }
+    },
+    {  "id":12,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/cuige2upm7tawyvbpetw",
+      "name": "The Shake Factory",
+      "category": [
+        "Beverages"
+      ],
+      "rating": 4.5,
+      "reviews":1396,
+      "deliveryTimings": "37",
+      "costForTwo":400,
+      "offer": ["20% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": false
+    }
+    },
+    {  "id":13,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/su6cggqgjmcxqb3ef6nw",
+      "name": "Azad Hind Dhaba",
+      "category": [
+        "North India"
+       
+      ],
+      "rating": 3.1,
+      "reviews":2396,
+      "deliveryTimings": "57",
+      "costForTwo": 450,
+      "offer": ["10% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+    }
+    },
+    {  "id":14,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/aasnmwe7nta6tdlj7qwz",
+      "name": "Golu Sahab",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Mughlai",
+        "Thalis Combo",
+        "Biriyani"
+      ],
+      "rating": 2.9,
+      "reviews":1396,
+      "deliveryTimings": "38",
+      "costForTwo":599,
+      "offer": ["15% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+    }
+    },
+    {  "id":15,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/oqxljsprzipeqtorzavs",
+      "name": "Pocket Meal @99",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Biryani",
+        "Thalis Combo",
+        "Bengali"
+      ],
+      "rating": 3.2,
+      "reviews":2556,
+      "deliveryTimings": "44",
+      "costForTwo":200,
+      "offer": ["30% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": false,
+        "cash": false,
+        "upi": true
+    }
+    },
+    {  "id":16,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/h0bswpa8bniqcaupsclw",
+      "name": "The Chinese Company",
+      "category": [
+        "Chinese"
+      ],
+      "rating": 3.1,
+      "reviews":2556,
+      "deliveryTimings": "53",
+      "costForTwo":199,
+      "offer": ["25% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+    }
+    },
+    {  "id":17,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/paewnaprqeox50yfcv25",
+      "name": "Juice Station",
+      "category": [
+        "Juice",
+        "Healthy Food",
+        "Beverages"
+      ],
+      "rating": 4.3,
+      "reviews":3556,
+      "deliveryTimings": "30",
+      "costForTwo":200,
+      "offer": ["20% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": true
+    }
+    },
+    {  "id":18,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/yabkfr5uk4fo3j7e4uxw",
+      "name": "Spice Grill Flame",
+      "category": [
+        "North India",
+        "Chinese"
+      ],
+      "rating": 4.1,
+      "reviews":2856,
+      "deliveryTimings": "42",
+      "costForTwo":250,
+      "offer": ["20% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card":true,
+        "cash": false,
+        "upi": true
+    }
+    },
+    {  "id":19,
+      "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/khfgjyu5yhy7nh6mfxd9",
+      "name": "Rajwada Kitchen",
+      "category": [
+        "North India",
+        "Fast Food"
+      ],
+      "rating": 3.9,
+      "reviews":4556,
+      "deliveryTimings": "66",
+      "costForTwo":400,
+      "offer": ["10% off", "Use TRYNEW"],
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi":true
+    }
+    },
+    {  "id":20,
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/zruaq8phno4rsouqw9fc",
+        "name": "Waffle Treats",
+        "category": [
+          "Deserts"
+        ],
+        "rating": 2.7,
+        "reviews":6556,
+        "deliveryTimings": "29",
+        "costForTwo":350,
+        "offer": ["30% off", "Use TRYNEW"],
+        "payment_methods": {
+            "card": true,
+            "cash": true,
+            "upi": false
+        }
+      }
+
+]

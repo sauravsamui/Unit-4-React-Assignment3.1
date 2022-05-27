@@ -1,0 +1,188 @@
+.App {
+  background-color:whitesmoke;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.material-icons{
+  font-size: 18px;
+  font-weight: 500;
+}
+.button_div{
+  width: 90%;
+  margin: auto;
+
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+body {
+  background-color: #fff;
+  color: #000;
+  font-family: "proxima-nova", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.875;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  position: relative;
+  max-width: 1200px;
+  min-width: 1200px;
+  display: flex;
+  margin: auto;
+  margin-top: 20px;
+}
+.divider {
+  border-top: 1px solid #e9e9eb;
+  height: 1px;
+  margin: auto;
+  margin-left: 160px;
+  margin-top: 20px;
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  flex: 33%;
+}
+
+.card {
+  padding: 15px 15px 8px 15px;
+  border: 1px solid #fff;
+  margin-bottom: 50px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  width: 254px;
+  margin-left: 30px;
+}
+
+.card:hover {
+  box-shadow: 0 2px 4px 0 rgb(48 56 97 / 20%);
+  border: 0.2px solid rgb(211, 207, 207);
+}
+
+.restaurant-details {
+  margin-top: 14px;
+  line-height: normal;
+}
+
+.restaurant-title {
+  font-size: 17px;
+  font-weight: 500;
+  word-break: break-word;
+}
+
+.restaurant-subtitle {
+  color: #686b78;
+  font-size: 13px;
+  margin-top: 4px;
+}
+
+.restaurant-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 10px;
+  margin-top: 10px;
+}
+
+.restaurant-ratings {
+  display: flex;
+  align-items: center;
+  padding: 2px 5px 2px 0;
+  color: white;
+  font-weight: 500;
+  margin-top: 4px;
+  width: 40px;
+  background-color: #48c479;
+}
+
+.star-icon {
+  transform: scale(0.7);
+}
+
+.restaurant-delivery-timings {
+  color: #686b78;
+  font-size: 13px;
+  margin-top: 4px;
+}
+
+.restaurant-cost-for-two {
+  color: #686b78;
+  font-size: 13px;
+  margin-top: 4px;
+}
+
+.offer-banner {
+  border-top: 1px solid #e9e9eb;
+  padding-top: 5px;
+  margin-top: -10px;
+  color: #8a584b;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+}
+
+.offer-text {
+  padding-left: 10px;
+  font-weight: 400;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.p{
+  width: 220px;
+  color: yellowgreen;
+  display: flex;;
+  justify-content: center;
+  align-items: center;
+  margin-top: -15px;
+}
+.rev{
+ font-size: 12px;
+ font-weight: 500;
+ width: 87px;
+ color:grey;
+
+}
+
